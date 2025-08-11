@@ -20,7 +20,7 @@ function App() {
       </Routes>
 
       <Routes>
-        <Route path="/dfgh" element={<Room />} />
+        <Route path="/room" element={<Room />} />
 
 
       </Routes>
